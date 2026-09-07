@@ -8,7 +8,7 @@ O código-fonte principal do PECNEX permanece em repositório privado.
 
 Arquivo oficial:
 
-`PECNEX-Agent-Setup-1.1.0.exe`
+`PECNEX-Agent-Setup-1.1.0.1.exe`
 
 SHA-256:
 
